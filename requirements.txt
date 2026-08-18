@@ -36,8 +36,8 @@ torchvision
 torchaudio
 
 # TensorFlow / Keras Ecosystem
-# tensorflow
-# keras
+tensorflow
+keras
 
 # ==========================================
 # Computer Vision & Image Processing
