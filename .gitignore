@@ -1,0 +1,16 @@
+# Python virtual environment
+myvenv/
+venv/
+.env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Keras Tuner logs & trials
+14.KerasTuner/my_dir/
+my_dir/
+14.KerasTuner/untitled_project/
